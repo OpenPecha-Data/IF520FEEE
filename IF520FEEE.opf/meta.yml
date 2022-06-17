@@ -1,0 +1,102 @@
+id: IF520FEEE
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:08:36.549005'
+last_modified: '2022-06-17T13:08:36.549014'
+parser: null
+source_metadata:
+  title: Mind Training (Lojong)
+  language: es
+  description: 'Texts on so-called mind training (blo sbyong), the system of practical
+    instructions for developing the compassion and wisdom of bodhicitta:'
+  volume:
+    f6F40:
+      title: Seven Points of Training the Mind According to the Great Vehicle
+      base_file: f6F40.txt
+      order: 1
+      parent: Seven Points of Mind Training
+    f8381:
+      title: Commentary on the Seven Points
+      base_file: f8381.txt
+      order: 2
+      parent: Seven Points of Mind Training
+    f47BE:
+      title: Notes on the Seven Points of Mind Training
+      base_file: f47BE.txt
+      order: 3
+      parent: Seven Points of Mind Training
+    fE3F1:
+      title: Ambrosia for the Mind
+      base_file: fE3F1.txt
+      order: 4
+      parent: Seven Points of Mind Training
+    f2B66:
+      title: Eight Verses of Training the Mind
+      base_file: f2B66.txt
+      order: 5
+      parent: Eight Verses of Training the Mind
+    f6B89:
+      title: The Thirty-Seven Practices of All the Bodhisattvas
+      base_file: f6B89.txt
+      order: 6
+      parent: Thirty-Seven Practices
+    fED7C:
+      title: 'The Blissful Path to the Ocean of Bodhichitta: A Brief Prayer of Aspiration
+        for Mind Training'
+      base_file: fED7C.txt
+      order: 7
+      parent: Aspiration Prayers
+    f342F:
+      title: 'The Excellent Path to Enlightenment: An Aspiration Towards the Mahāyāna
+        Mind Training'
+      base_file: f342F.txt
+      order: 8
+      parent: Aspiration Prayers
+    f55ED:
+      title: 'The Finest Jewel: An Aspiration Prayer of Mahāyāna Mind Training'
+      base_file: f55ED.txt
+      order: 9
+      parent: Aspiration Prayers
+    f4778:
+      title: Aspiration to Generate Bodhicitta, Utterly Pure and Supreme
+      base_file: f4778.txt
+      order: 10
+      parent: Aspiration Prayers
+    fCDDF:
+      title: The Bodhisattva’s Garland of Jewels
+      base_file: fCDDF.txt
+      order: 11
+      parent: Lojong (general)
+    fE3A6:
+      title: Turning Suffering & Happiness Into Enlightenment
+      base_file: fE3A6.txt
+      order: 12
+      parent: Lojong (general)
+    f45ED:
+      title: The Sayings of Geshe Langri Tangpa
+      base_file: f45ED.txt
+      order: 13
+      parent: Lojong (general)
+    fC02A:
+      title: How to Transform Sickness and Other Circumstances
+      base_file: fC02A.txt
+      order: 14
+      parent: Lojong (general)
+    f64C4:
+      title: Thirty Pieces of Heart Advice
+      base_file: f64C4.txt
+      order: 15
+      parent: Lojong (general)
+    f5656:
+      title: Three Principal Aspects of the Path
+      base_file: f5656.txt
+      order: 16
+      parent: Lojong (general)
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
